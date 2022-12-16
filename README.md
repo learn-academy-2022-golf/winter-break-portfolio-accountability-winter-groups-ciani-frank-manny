@@ -63,7 +63,7 @@ Process:
 
   Accountability Document 
 
-  Portfolio Owner:  
+  Portfolio Owner:  Francisco Burgers
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
@@ -81,7 +81,7 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner:  
+  Portfolio Owner:  Manny Espinoza
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
@@ -97,4 +97,23 @@ Process:
        - [] Stack of Project explained 
      [] Consistent Theme
      [] Spell check / Grammar check 
+
+   
+  Portfolio Owner:  Ciani Brown
+  Portfolio Deployment Link: 
+ _________________________________ 
+     [] Title  
+     [] Elevator Pitch  
+     [] Links to:  
+       - [] Github  
+       - [] LinkedIn  
+       - [] Email  
+     [] 3 Projects Displayed  
+       - [] Link to repo  
+       - [] Write up on the Project (2-3 sentences about the project)  
+       - [] Video of the project running OR Project deployed on portfolio  
+       - [] Stack of Project explained 
+     [] Consistent Theme
+     [] Spell check / Grammar check 
+
 
