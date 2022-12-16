@@ -14,6 +14,7 @@ Process:
 
    
   Portfolio Owner: Manny Espinoza 
+  
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
@@ -31,7 +32,9 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner: Ciani Brown - Portfolio Deployment Link: 
+  Portfolio Owner: Ciani Brown 
+  
+  Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
      [] Elevator Pitch  
