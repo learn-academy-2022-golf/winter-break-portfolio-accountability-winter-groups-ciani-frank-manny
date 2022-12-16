@@ -12,11 +12,11 @@ Process:
 
   Accountability Document 
 
-   
-  Portfolio Owner: Manny Espinoza 
-  
-  Portfolio Deployment Link: 
  _________________________________ 
+    Portfolio Owner: Manny Espinoza 
+  
+    Portfolio Deployment Link: 
+     
      [] Title  
      [] Elevator Pitch  
      [] Links to:  
@@ -32,10 +32,12 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner: Ciani Brown 
   
-  Portfolio Deployment Link: 
  _________________________________ 
+    Portfolio Owner: Ciani Brown 
+  
+    Portfolio Deployment Link: 
+     
      [] Title  
      [] Elevator Pitch  
      [] Links to:  
