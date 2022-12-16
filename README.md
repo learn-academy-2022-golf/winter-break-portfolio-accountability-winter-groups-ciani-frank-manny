@@ -63,7 +63,7 @@ Process:
 
   Accountability Document 
 
-  Portfolio Owner:  Francisco Burgers
+  Portfolio Owner: Francisco Burgers
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
@@ -81,7 +81,7 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner:  Manny Espinoza
+  Portfolio Owner: Manny Espinoza
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
@@ -99,7 +99,7 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner:  Ciani Brown
+  Portfolio Owner: Ciani Brown
   Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
