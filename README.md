@@ -63,8 +63,7 @@ Process:
 
   Accountability Document 
 
-  Portfolio Owner: Francisco Burgers
-  Portfolio Deployment Link: 
+  Portfolio Owner: Francisco Burgers - Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
      [] Elevator Pitch  
@@ -81,8 +80,7 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner: Manny Espinoza
-  Portfolio Deployment Link: 
+  Portfolio Owner: Manny Espinoza - Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
      [] Elevator Pitch  
@@ -99,8 +97,7 @@ Process:
      [] Spell check / Grammar check 
 
    
-  Portfolio Owner: Ciani Brown
-  Portfolio Deployment Link: 
+  Portfolio Owner: Ciani Brown - Portfolio Deployment Link: 
  _________________________________ 
      [] Title  
      [] Elevator Pitch  
