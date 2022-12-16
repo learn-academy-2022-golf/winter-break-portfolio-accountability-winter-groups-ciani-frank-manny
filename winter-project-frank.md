@@ -6,7 +6,7 @@ Process:
   4. Repeat steps 2-3 as needed
   4. Team members will sign off on the updates/ completion of the points given, on their own markdown documents
   
- _________________________________ 
+  
  _________________________________ 
 
 
