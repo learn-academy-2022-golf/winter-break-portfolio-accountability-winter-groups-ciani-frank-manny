@@ -1,4 +1,3 @@
-# I will not be looking at this before monday, December 19
 
 Process: 
   1. Deploy your portfolio and share the link with your team members, ask for feedback.
